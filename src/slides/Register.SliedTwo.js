@@ -58,7 +58,7 @@ const RegisterSlideTwo=()=>{
     return(
         <Container fluid>
                 <div style={{minHeight:"100vh"}} className="row">
-                   <div className="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7">
+                   <div className="col-12 col-sm-12 col-md-9 col-lg-7 col-xl-7 col-xxl-7">
                         <div style={{minHeight:"100vh"}} className="row d-flex align-items-center justify-content-center">
                             <Form className="col-11 col-sm-10 col-md-7 col-lg-8 col-xl-8">                      
                                 <div className="row d-flex align-items-center justify-content-center">
@@ -175,9 +175,9 @@ const RegisterSlideTwo=()=>{
                         </Form>
                         </div>
                    </div>
-                   <div style={{backgroundColor:"#3ee8c4"}} className="sideSecurityQuestion col-5 col-sm-5 col-md-4 col-lg-5 col-xl-5">
+                   <div style={{backgroundColor:"#3ee8c4"}} className="createOrg col-md-3 col-lg-5 col-xl-5 col-xxl-5">
                         <div style={{backgroundColor:"#3ee8c4",height:"100vh"}} className="d-flex align-items-center justify-content-center">
-                            <img className="securityImg" src={"https://media.licdn.com/dms/image/D4D12AQGF2p4K0d24vQ/article-cover_image-shrink_600_2000/0/1694170264418?e=2147483647&v=beta&t=KEGqWLiSu_xUasBsqzzgZSTFbXIIx_HFEwjahlzmMHs"} alt="img"></img>
+                            <img className="securityImg createOrgImg" src={"https://media.licdn.com/dms/image/D4D12AQGF2p4K0d24vQ/article-cover_image-shrink_600_2000/0/1694170264418?e=2147483647&v=beta&t=KEGqWLiSu_xUasBsqzzgZSTFbXIIx_HFEwjahlzmMHs"} alt="img"></img>
                         </div>
                     </div>
                 </div>
