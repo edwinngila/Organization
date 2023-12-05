@@ -1,0 +1,15 @@
+.securityImg{
+    width: 500px;
+    height: 350px;
+}
+@media only screen and (max-width:769px){
+    .sideSecurityQuestion{
+        display: none;
+    }
+}
+@media only screen and (min-width:769px) and (max-width:1120px){
+    .securityImg{
+        width: 30vw;
+        height: 30vh;
+    }
+}
