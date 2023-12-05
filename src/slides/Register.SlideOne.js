@@ -52,11 +52,11 @@ const RegisterSlideOne=()=>{
         <Container fluid>
                 <div style={{minHeight:"100vh"}} className="row">
                    <div className="col-12 col-sm-12 col-md-9 col-lg-7 col-xl-7 col-xxl-7">
-                        <div  style={{minHeight:"100vh"}} className="row d-flex align-items-center justify-content-center">
+                        <div  style={{minHeight:"100vh"}} className="row d-flex  align-items-center justify-content-center">
                             <Form className="col-11 col-sm-10 col-md-9 col-lg-9 col-xl-8">                      
                                 <div className="row d-flex align-items-center justify-content-center">
                                     <h1>Sign u<span className="p-1" style={{borderBottom:"3px solid black"}}>p</span></h1>
-                                    <p className="mt-3">CREATE ACCOUNT IN SECONDS</p>
+                                    <p className="mt-1">CREATE ACCOUNT IN SECONDS</p>
                                 </div>
 
                                 {/**FIRST NAME */}
